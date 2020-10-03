@@ -1,0 +1,21 @@
+name, product_id, amount, price
+Anika Martz, 23, 1, 36
+Anika Martz, 45, 3, 29.5
+Anika Martz, 36, 2, 50.30
+Justine Blau, 2, 6, 10.8
+Justine Blau, 45, 6, 59
+Holger Gant, 36, 1, 25.15
+Anika Martz, 15, 7, 30
+Anika Martz, 4, 9, 27.99
+Holger Gant, 36, 2, 50.30
+Holger Gant, 15, 14, 60
+Holger Gant, 2, 3, 5.4
+Anton Semmer, 12, 4, 95
+Justine Blau, 2, 6, 10.8
+Holger Gant, 36, 3, 75.45
+Anton Semmer, 4, 3, 9.33
+Anton Semmer, 12, 8, 190
+Anton Semmer, 2, 3, 5.4
+Justine Blau, 2, 6, 10.8
+Justine Blau, 15, 7, 30
+Anika Martz, 23, 1, 36
